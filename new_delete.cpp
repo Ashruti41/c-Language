@@ -1,3 +1,8 @@
+//new and delete operator in c++
+//use is the new and delete operator is flexibility provided to programmers. with the help of this we can easily allocate and deallocate memory whenever we need it and whenever we don't need it anymore.
+
+
+
 #include<iostream>
 using namespace std;
 
@@ -45,6 +50,14 @@ int main(){
 
 		return 0;
 	}
+
+
+/*output
+
+Value of p: 29
+Value of r: 75.25
+Value store in block of memory: 1 2 3 4 5 
+*/
 
 
 
